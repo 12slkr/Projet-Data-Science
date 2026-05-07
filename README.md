@@ -1,5 +1,5 @@
 # Projet Data Science M2 — Rétention Client & Prédiction du Churn
-## EFREI 2025-26 | Sarah Malaeb
+## EFREI 2025-26 | Saphir LANKRI & Wacil BETTAHAR - Groupe 12
 
 ## Installation
 ```bash
