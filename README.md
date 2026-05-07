@@ -23,7 +23,6 @@ streamlit run dashboard/app.py
 - `src/` : modules de preprocessing et d'évaluation
 - `models/` : modèles sauvegardés (.pkl, .keras)
 - `dashboard/` : application Streamlit (6 pages)
-- `notebooks/` : notebook d'exploration EDA
 - `train.py` : script d'entraînement (exécuté une seule fois)
 
 ## Modèles entraînés
